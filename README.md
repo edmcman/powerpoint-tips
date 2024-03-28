@@ -17,7 +17,7 @@ The general idea is to use the "Fragment" merge shapes options in order to split
 ### Desaturation example
 <details>
 
-![Fragment example](emph1.gif)
+![Fragment example](videos/image-emphasis/emph1.gif)
 
 </details>
 
@@ -25,6 +25,6 @@ The general idea is to use the "Fragment" merge shapes options in order to split
 This builds on the previous example.
 <details>
 
-![Blur example](emph2.gif)
+![Blur example](videos/image-emphasis/emph2.gif)
 
 </details>
