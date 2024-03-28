@@ -28,3 +28,16 @@ This builds on the previous example.
 ![Blur example](videos/image-emphasis/emph2.gif)
 
 </details>
+
+## How to zoom in on part of an image?
+
+The morph transition allows you to make some really great zoom effects.  Enable the morph transition, duplicate the slide, and crop and expand the element you want to zoom in on.
+
+### Example
+<details>
+
+![How to create zoom effect](videos/zoom/zoom1.gif)
+
+![Preview of advancing and backing slide](videos/zoom/zoom2.gif)
+
+</details>
