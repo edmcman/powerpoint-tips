@@ -41,3 +41,8 @@ The morph transition allows you to make some really great zoom effects.  Enable 
 ![Preview of advancing and backing slide](videos/zoom/zoom2.gif)
 
 </details>
+
+# Other resources
+
+* [PowerPoint hacks you've never heard of](https://www.mauriziolacava.com/en/10-powerpoint-hacks-you-never-heard-of/#1_make_multiple_images_the_same_size)
+* [/r/powerpoint](https://www.reddit.com/r/powerpoint)
