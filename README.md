@@ -12,7 +12,7 @@ Open a pull request.  Give preference to scripts or videos using [gifcap](https:
 
 The traditional solution is to draw a box around the emphasized portion of the image, but it's possible to do better.
 
-The general idea is to use the "Fragment" merge shapes options in order to split the image into emphasized and non-emphasized pieces.  The non-emphasized pieces can be desatured in color, blurred, or something else.
+The general idea is to use the "Fragment" merge shapes options in order to split the image into emphasized and non-emphasized pieces.  **You must select the picture before the emphasis shapes.** The non-emphasized pieces can be desatured in color, blurred, or something else.
 
 ### Desaturation example
 <details>
