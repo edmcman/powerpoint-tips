@@ -42,6 +42,14 @@ The morph transition allows you to make some really great zoom effects.  Enable 
 
 </details>
 
+# Wanted
+
+## How can you use "quick styles" for non-theme colors?
+
+For example, how can you use these effects with a different color?  The gradients are complicated, so manually replicating it is not easy.
+
+![image](https://github.com/edmcman/powerpoint-tips/assets/1017189/2fbd1fb3-8096-45c8-be33-85dd69a21ada)
+
 # Other resources
 
 * [PowerPoint hacks you've never heard of](https://www.mauriziolacava.com/en/10-powerpoint-hacks-you-never-heard-of/#1_make_multiple_images_the_same_size)
