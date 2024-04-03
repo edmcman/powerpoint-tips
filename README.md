@@ -51,7 +51,7 @@ Powerpoint doesn't allow the sketched style options for straight connectors, but
 
 ![How to create squiggly line arrow](videos/squiggly-line/squiggle.gif)
 
-∂</details>
+</details>
 
 # Wanted
 
