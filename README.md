@@ -42,6 +42,17 @@ The morph transition allows you to make some really great zoom effects.  Enable 
 
 </details>
 
+## How to draw a squiggly arrow/line connector?
+
+Powerpoint doesn't allow the sketched style options for straight connectors, but if you use the curve connector and draw a straight line by double clicking on the terminal point, you can set the sketched options, including squiggly lines.  [See also the reply by Bob Jones.](https://answers.microsoft.com/en-us/msoffice/forum/all/why-is-sketched-line-grayed-out-in-word-and/a4e56375-d78c-46c1-905c-96e590e07929#:~:text=Sorry%20if%20this,Regards%2C%0ABob%20J.)
+
+### Example
+<details>
+
+![How to create squiggly line arrow](videos/squiggly-line/squiggle.gif)
+
+∂</details>
+
 # Wanted
 
 ## How can you use "quick styles" for non-theme colors?
