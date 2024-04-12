@@ -67,3 +67,8 @@ For example, how can you use these effects with a different color?  The gradient
 * [Windows keyboard shortcuts](https://support.microsoft.com/en-us/office/use-keyboard-shortcuts-to-create-powerpoint-presentations-ebb3d20e-dcd4-444f-a38e-bb5c5ed180f4#PickTab=Windows)
 * [PowerPoint hacks you've never heard of](https://www.mauriziolacava.com/en/10-powerpoint-hacks-you-never-heard-of/#1_make_multiple_images_the_same_size)
 * [/r/powerpoint](https://www.reddit.com/r/powerpoint)
+
+## APIs
+
+* [Powerpoint Add-in Reference](https://learn.microsoft.com/en-us/office/dev/add-ins/reference/overview/powerpoint-add-ins-reference-overview)
+* [Powerpoint VBA Reference](https://learn.microsoft.com/en-us/office/vba/api/overview/powerpoint)
