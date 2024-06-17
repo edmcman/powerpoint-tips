@@ -55,9 +55,9 @@ Powerpoint doesn't allow the sketched style options for straight connectors, but
 
 ## Super-useful shortcuts
 
-* <kbd>Ctrl</kbd>+<kbd>Left Click</kbd> and dragging an element will duplicate it.  Press <kbd>Ctrl</kbd>+<kbd>Y</kbd> to repeat the duplication.
+* <kbd>Ctrl</kbd>+<kbd>Left Click Hold</kbd> and dragging an element will duplicate it.  Press <kbd>Ctrl</kbd>+<kbd>Y</kbd> to repeat the duplication.
 * Holding <kbd>shift</kbd> while dragging an element will restrict movement to horizontal or vertical.
-* <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Left Click</kbd> and dragging an element will duplicate it and restrict movement to horizontal or vertical. Press <kbd>Ctrl</kbd>+<kbd>Y</kbd> to repeat the duplication.
+* <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Left Click Hold</kbd> and dragging an element will duplicate it and restrict movement to horizontal or vertical. Press <kbd>Ctrl</kbd>+<kbd>Y</kbd> to repeat the duplication.
 
 # Wanted
 
